@@ -1,0 +1,2 @@
+set a "hi"
+plus a 1

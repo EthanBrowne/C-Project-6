@@ -1,0 +1,6 @@
+set first "ankle"
+set second "coup"
+set third "blat"
+plus first "t
+plus second on
+plus third ant"
